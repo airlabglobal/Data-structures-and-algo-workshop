@@ -111,7 +111,7 @@ Whether you're brushing up for interviews or strengthening fundamentals, this is
 
 ## 👨🏽‍🏫 Contributors
 Curated with ❤️ by:  
-- [@Chinemeremx](https://github.com/ChinemeremChigbo) – Lead Instructor  
+- [@Chinemerem](https://github.com/ChinemeremChigbo) – Lead Instructor  
 - [@YoungAncient](https://github.com/YoungAncient) – Assistant  
 - [@Ayocyber](https://github.com/Ayo-Cyber) – Assistant
 
