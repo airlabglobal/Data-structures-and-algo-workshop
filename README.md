@@ -13,6 +13,10 @@ Whether you're brushing up for interviews or strengthening fundamentals, this is
 - [📌 Sliding Window](#-sliding-window)
 - [📌 Big O Notation](#-big-o-notation)
 - [📌 Binary Search](#-binary-search)
+- [📌 Linked Lists](#-linked-lists)
+- [📌 Heaps](#-heaps)
+- [📌 Depth First Search](#-depth-first-search)
+- [📌 Breadth First Search](#-breadth-first-search)
 - [👨🏽‍🏫 Contributors](#-contributors)
 
 ---
@@ -176,6 +180,130 @@ Whether you're brushing up for interviews or strengthening fundamentals, this is
 - [Binary Search Animated](https://www.youtube.com/watch?v=eVuPCG5eIr4)  
 - [How Binary Search Makes Computers Much, Much Faster](https://www.youtube.com/watch?v=KXJSjte_OAI)  
 - [Competitive Programmer's Handbook (PDF)](https://cses.fi/book/book.pdf)
+---
+
+## 📌 Linked Lists
+
+### 🔢 Questions
+
+- **Easy**  
+  - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=G0_I-ZF0S38)  
+  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=gBTe7lFR3vc)
+
+- **Medium**  
+  - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=RF_M9tX4Eag)
+
+- **Hard**  
+  - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=1UOPsfP85V4)
+
+### 🎯 Mock Interviews
+- [Pramp](https://www.pramp.com/)
+
+### 🖼️ Presentation Slides
+- [Slides](https://docs.google.com/presentation/d/1bEeahDOlzcQpWuzGhGzFk2DTCsLAEUZTLS9PQ8X5dd4/edit?usp=sharing)
+
+### 🔗 Helpful Links
+- [Linked List - Data Structures & Algorithms Tutorials in Python #4](https://www.youtube.com/watch?v=qp8u-frRAnU)  
+- [Python: Linked Lists (fast)](https://www.youtube.com/watch?v=Ast5sKQXxEU)  
+- [Competitive Programmer's Handbook (PDF)](https://cses.fi/book/book.pdf)
+
+---
+
+## 📌 Heaps
+
+### 🔢 Questions
+
+- **Easy**  
+  - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=B-QCq79-Vfw)  
+  - [Take Gifts from the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=bHEQ4D_XcyY)
+
+- **Medium**  
+  - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=XEmy13g1Qxc)
+
+- **Hard**  
+  - [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=2VLwjvODQbA)
+
+### 🎯 Mock Interviews
+- [Pramp](https://www.pramp.com/)
+
+### 🖼️ Presentation Slides
+- [Slides](https://docs.google.com/presentation/d/1ypYo_YJ4_ANqkrClVuq_6o-mmNpP0iiFGgW_Qsf_KwE/edit?usp=sharing)
+
+### 🔗 Helpful Links
+- [Heaps in 3 minutes — Intro](https://www.youtube.com/watch?v=0wPlzMU-k00)  
+- [Heaps & Priority Queues in Python](https://www.youtube.com/watch?v=wGSQ486Y4sc)  
+- [Competitive Programmer's Handbook (PDF)](https://cses.fi/book/book.pdf)
+
+---
+
+## 📌 Depth First Search
+
+### 🔢 Questions
+
+- **Easy**  
+  - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=g_S5WuasWUE)  
+  - [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=92zdLCeiumk)
+
+- **Medium**  
+  - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=wQGQnyv_9hI)
+
+- **Hard**  
+  - [Similar String Groups](https://leetcode.com/problems/similar-string-groups)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=tDua5OSAcBM)
+
+### 🎯 Mock Interviews
+- [Pramp](https://www.pramp.com/)
+
+### 🖼️ Presentation Slides
+- [Slides](https://docs.google.com/presentation/d/1kosE_2XWHL02X5dufcZTZlRjCLPhWjsEhXTRRIbuVzU/edit?usp=sharing)
+
+### 🔗 Helpful Links
+- [Depth First Search (DFS) Explained: Algorithm, Examples, and Code](https://www.youtube.com/watch?v=PMMc4VsIacU)  
+- [Depth First Search with Python](https://www.youtube.com/watch?v=Sbciimd09h4)  
+- [Competitive Programmer's Handbook (PDF)](https://cses.fi/book/book.pdf)
+
+---
+
+## 📌 Breadth First Search
+
+### 🔢 Questions
+
+- **Easy**  
+  - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=Mao9uzxwvmc)  
+  - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=5h77wtps7R4)
+
+- **Medium**  
+  - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=6ZnyEApgFYg)
+
+- **Hard**  
+  - [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination)  
+    📺 [Video Explanation](https://www.youtube.com/watch?v=2F7gwxfy1CU)
+
+### 🎯 Mock Interviews
+- [Pramp](https://www.pramp.com/)
+
+### 🖼️ Presentation Slides
+- [Slides](https://docs.google.com/presentation/d/1K7VYDOVzOiajjBbW2hCJmjHxRLlTPwpHizfWUSa6dE4/edit?usp=sharing)
+
+### 🔗 Helpful Links
+- [Breadth First Search (BFS): Visualized and Explained](https://www.youtube.com/watch?v=xlVX7dXLS64)  
+- [BFS in 3 Minutes](https://www.youtube.com/watch?v=POpkdEdmlbU)  
+- [Competitive Programmer's Handbook (PDF)](https://cses.fi/book/book.pdf)
+
 ---
 
 ## 👨🏽‍🏫 Contributors
